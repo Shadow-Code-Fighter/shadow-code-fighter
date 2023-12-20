@@ -1,4 +1,4 @@
-![logo](https://github.com/Shadow-Fighter-Coder/Shadow-Fighter-Coder/blob/main/Shadaow-fighter-coder%20(1).png)
+![logo](https://github.com/Shadow-Code-Fighter/shadow-code-fighter/blob/main/SHadow-code-fighter%20(1).png)
 <h1 align="center">Hi 👋, I'm Gaurav Sharma</h1>
 <h3 align="center">A passionate Back-end developer from India</h3>
 
