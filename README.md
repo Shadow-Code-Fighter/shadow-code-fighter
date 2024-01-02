@@ -29,4 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadow-code-fighter&show_icons=true&locale=en" alt="shadow-fighter-coder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadow-code-fighter&" alt="shadow-fighter-coder" /></p>
