@@ -1,4 +1,4 @@
-
+<link rel="shortcut icon" type="image/png" href="/favicon.png">
 <h1 align="center">Hi 👋, I'm Gaurav Sharma</h1>
 <h3 align="center">A passionate Back-end developer from India</h3>
 
