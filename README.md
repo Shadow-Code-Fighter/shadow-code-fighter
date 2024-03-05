@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sharma</h1>
 <h3 align="center">A passionate Back-end developer from India</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shadow-Code-Fighter)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadow-code-fighter&label=Profile%20views&color=0e75b6&style=flat" alt="shadow-fighter-coder" /> </p>
 
@@ -13,6 +15,7 @@
 - 📫 How to reach me **shadow.code.fighter@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
