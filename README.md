@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sharma</h1>
 <h3 align="center">A passionate Back-end developer from India</h3>
 
-![GitHub](https://github.com/Shadow-Code-Fighter/shadow-code-fighter/assets/106481290/4d7b16bb-41b7-4ccf-a1be-6b87e02c60d3)
+<img src="https://github.com/Shadow-Code-Fighter/shadow-code-fighter/assets/106481290/4d7b16bb-41b7-4ccf-a1be-6b87e02c60d3" width="800" height="500">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shadow-Code-Fighter)](https://github.com/ryo-ma/github-profile-trophy)
 
