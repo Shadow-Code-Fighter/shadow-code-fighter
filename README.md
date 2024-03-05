@@ -1,28 +1,27 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sharma</h1>
 <h3 align="center">A passionate Back-end developer from India</h3>
 
+![GitHub](https://github.com/Shadow-Code-Fighter/shadow-code-fighter/assets/106481290/4d7b16bb-41b7-4ccf-a1be-6b87e02c60d3)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shadow-Code-Fighter)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadow-code-fighter&label=Profile%20views&color=0e75b6&style=flat" alt="shadow-fighter-coder" /> </p>
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gauravofficial.netlify.app/)
+
 
 - 🌱 I’m currently learning **Full Stack with Java**
-
 - 💬 Ask me about **Java, Spring Framework**
-
 - 📫 How to reach me **shadow.code.fighter@gmail.com**
-
 - ⚡ Fun fact **I think I am funny**
-  
-![GitHub](https://github.com/Shadow-Code-Fighter/shadow-code-fighter/assets/106481290/4d7b16bb-41b7-4ccf-a1be-6b87e02c60d3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kgauravs192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kgauravs192" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gaurav-sharma05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-sharma27" height="30" width="40" /></a>
-  
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gauravofficial.netlify.app/)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
